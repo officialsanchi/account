@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4603255d-8f5e-455a-baa8-62928da9a816" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checkmate/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/oddindex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/oddindex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/triangle2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/alphabate.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/alphabate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/middle.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/middle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/mixCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/mixCase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/wordswap.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/wordswap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_files/bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_files/bank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_files/biggest_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_files/biggest_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_files/cubes.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_files/cubes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_alphabate.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_alphabate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_bank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_cubes.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_cubes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_for_biggest_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_for_biggest_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_middle.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_middle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_mix_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_mix_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_files/test_word_swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_files/test_word_swap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkmate/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkmate/genarateRandomNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,62 +33,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_account.AccountTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_account.AccountTest.test_check_If_Account_Exists.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_account.AccountTest.test_to_check_If_Account_Can_return_first_Name.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_account.AccountTest.test_to_check_If_Account_Can_return_last_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alphabate.TestForUpperAndLowerCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_bank.MyTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_char.TestForUpperAndLowerCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.TestCount.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.TestCount.test_count_function_can_return_dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.test_that_count_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.test_that_count_exists.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.test_that_word_can_count.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cubes.TestThatNumberCanMultiplyItselfThreeTimes.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cubes.TestThatNumberCanMultiplyItselfThreeTimes.test_That_Number_Can_Multiply_Itself_Three_Times_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_cubes.TestThatNumberCanMultiplyItselfThreeTimes.test_That_Number_Can_Multiply_Itself_Three_Times_function_return_dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_for_biggest_number.MyTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_for_biggest_number.TestBiggestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_for_biggest_number.TestBiggestOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_middle_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added_four.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added_three.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added_two.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_mix_case.TestMixCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_mix_case.TestMixCase.test_that_mix_case_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_mix_case.TestMixCase.test_that_mix_case_exists.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_word_swap.TestWordSwap.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_word_swap.TestWordSwap.test_something.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap_case_three.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap_case_two.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap_exits.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_mix_case.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_word_swap.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oddindex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.triangle2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL USER/PycharmProjects/pythonProject/.venv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_account.AccountTest.executor": "Run",
+    "Python tests.Python tests for test_account.AccountTest.test_check_If_Account_Exists.executor": "Run",
+    "Python tests.Python tests for test_account.AccountTest.test_to_check_If_Account_Can_return_first_Name.executor": "Run",
+    "Python tests.Python tests for test_account.AccountTest.test_to_check_If_Account_Can_return_last_name.executor": "Run",
+    "Python tests.Python tests for test_alphabate.TestForUpperAndLowerCase.executor": "Run",
+    "Python tests.Python tests for test_bank.MyTestCase.executor": "Run",
+    "Python tests.Python tests for test_char.TestForUpperAndLowerCase.executor": "Run",
+    "Python tests.Python tests for test_count.TestCount.executor": "Run",
+    "Python tests.Python tests for test_count.TestCount.test_count_function_can_return_dict.executor": "Run",
+    "Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted.executor": "Run",
+    "Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.executor": "Run",
+    "Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.test_that_count_exist.executor": "Run",
+    "Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.test_that_count_exists.executor": "Run",
+    "Python tests.Python tests for test_count.Test_That_Alphabate_Collected_In_Parameter_Can_Be_Counted_Exist.test_that_word_can_count.executor": "Run",
+    "Python tests.Python tests for test_cubes.TestThatNumberCanMultiplyItselfThreeTimes.executor": "Run",
+    "Python tests.Python tests for test_cubes.TestThatNumberCanMultiplyItselfThreeTimes.test_That_Number_Can_Multiply_Itself_Three_Times_exist.executor": "Run",
+    "Python tests.Python tests for test_cubes.TestThatNumberCanMultiplyItselfThreeTimes.test_That_Number_Can_Multiply_Itself_Three_Times_function_return_dict.executor": "Run",
+    "Python tests.Python tests for test_for_biggest_number.MyTestCase.executor": "Run",
+    "Python tests.Python tests for test_for_biggest_number.TestBiggestNumber.executor": "Run",
+    "Python tests.Python tests for test_for_biggest_number.TestBiggestOdd.executor": "Run",
+    "Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.executor": "Run",
+    "Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_middle_exist.executor": "Run",
+    "Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added.executor": "Run",
+    "Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added_four.executor": "Run",
+    "Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added_three.executor": "Run",
+    "Python tests.Python tests for test_middle.TestThatWordCanBeAddedAtTheMiddle.test_that_word_can_be_added_two.executor": "Run",
+    "Python tests.Python tests for test_mix_case.TestMixCase.executor": "Run",
+    "Python tests.Python tests for test_mix_case.TestMixCase.test_that_mix_case_exist.executor": "Run",
+    "Python tests.Python tests for test_mix_case.TestMixCase.test_that_mix_case_exists.executor": "Run",
+    "Python tests.Python tests for test_word_swap.TestWordSwap.executor": "Run",
+    "Python tests.Python tests for test_word_swap.TestWordSwap.test_something.executor": "Run",
+    "Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap.executor": "Run",
+    "Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap_case_three.executor": "Run",
+    "Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap_case_two.executor": "Run",
+    "Python tests.Python tests for test_word_swap.TestWordSwap.test_that_word_swap_exits.executor": "Run",
+    "Python tests.Python tests in test_mix_case.py.executor": "Run",
+    "Python tests.Python tests in test_word_swap.py.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.count.executor": "Run",
+    "Python.genarateRandomNumber.executor": "Run",
+    "Python.oddindex.executor": "Run",
+    "Python.triangle.executor": "Run",
+    "Python.triangle2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/DELL USER/PycharmProjects/pythonProject/.venv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL USER\PycharmProjects\pythonProject\.venv" />
@@ -120,7 +98,7 @@
       <recent name="C:\Users\DELL USER\PycharmProjects\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_alphabate.TestForUpperAndLowerCase">
+  <component name="RunManager">
     <configuration name="Python tests for test_alphabate.TestForUpperAndLowerCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -243,6 +221,8 @@
       <workItem from="1726002770214" duration="5932000" />
       <workItem from="1726039332464" duration="12779000" />
       <workItem from="1726122603212" duration="412000" />
+      <workItem from="1726133119200" duration="1517000" />
+      <workItem from="1726308057389" duration="5743000" />
     </task>
     <servers />
   </component>
@@ -265,6 +245,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$oddindex.coverage" NAME="oddindex Coverage Results" MODIFIED="1726056396596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classwork" />
     <SUITE FILE_PATH="coverage/pythonProject$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1726050188739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classwork" />
     <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME=" Coverage Results" MODIFIED="1725949039801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_files" />
+    <SUITE FILE_PATH="coverage/pythonProject$genarateRandomNumber.coverage" NAME="genarateRandomNumber Coverage Results" MODIFIED="1726313130535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/checkmate" />
     <SUITE FILE_PATH="coverage/pythonProject$triangle2.coverage" NAME="triangle2 Coverage Results" MODIFIED="1726053229376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classwork" />
   </component>
 </project>

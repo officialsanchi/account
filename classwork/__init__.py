@@ -6,3 +6,5 @@
 # value3 = int(input('Enter third numer:'))
 # value4 = int(input('Enter fourth numer:'))
 # sum = value3 + value4
+def stack():
+    return None

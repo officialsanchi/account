@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4603255d-8f5e-455a-baa8-62928da9a816" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checkmate/studentGrade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/custom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classwork/sequenceOfCommaSeparatedNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStructure/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataStructure/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_files/test_custom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_files/test_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classwork/generatePassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/test_generate_Password.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classwork/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/classwork/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +83,7 @@
     "Python.__init__.executor": "Run",
     "Python.count.executor": "Run",
     "Python.genarateRandomNumber.executor": "Run",
+    "Python.generatePassword.executor": "Run",
     "Python.oddindex.executor": "Run",
     "Python.sequenceOfCommaSeparatedNumbers.executor": "Run",
     "Python.studentGrade.executor": "Run",
@@ -114,7 +109,7 @@
       <recent name="C:\Users\DELL USER\PycharmProjects\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_stack.StackTests.test_that_stack_can_push_values">
+  <component name="RunManager">
     <configuration name="studentGrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -252,7 +247,8 @@
       <workItem from="1726665929340" duration="1213000" />
       <workItem from="1726673300578" duration="3402000" />
       <workItem from="1726685623102" duration="2498000" />
-      <workItem from="1726920734468" duration="1830000" />
+      <workItem from="1726920734468" duration="2601000" />
+      <workItem from="1727008731648" duration="3204000" />
     </task>
     <servers />
   </component>
@@ -284,5 +280,6 @@
     <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME=" Coverage Results" MODIFIED="1726922915398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_files" />
     <SUITE FILE_PATH="coverage/pythonProject$genarateRandomNumber.coverage" NAME="genarateRandomNumber Coverage Results" MODIFIED="1726313130535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/checkmate" />
     <SUITE FILE_PATH="coverage/pythonProject$triangle2.coverage" NAME="triangle2 Coverage Results" MODIFIED="1726053229376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classwork" />
+    <SUITE FILE_PATH="coverage/pythonProject$generatePassword.coverage" NAME="generatePassword Coverage Results" MODIFIED="1727011680365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,8 +1,26 @@
 import unittest
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
-        self.assertEqual(True, False)  # add assertion here
+from function_files import television
+from  function_files.television import Television
 
-if __name__ == '__main__':
-    unittest.main()
+
+class TestTelevision(unittest.TestCase):
+
+    def test_that_television_exist(self):
+       television = Television()
+
+    def test_that_television_can_on(self):
+        television = Television()
+        self.assertTrue(television.turn_on())
+    def test_that_television_can_off(self):
+        television = Television()
+        self.assertFalse(television.turn_off())
+
+    def test_that_television_default_volume_is_zero(self):
+        television = Television()
+        self.assertTrue(television.turn_on())
+        self.assertTrue(television.volume_up())
+
+
+        get_channel = True
+
